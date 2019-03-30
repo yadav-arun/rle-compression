@@ -1,0 +1,27 @@
+{
+  "name": "rle-compression",
+  "version": "1.0.0",
+  "description": "RLE compression - Encode and Decode for Node and Browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadav-arun/rle-compression.git"
+  },
+  "keywords": [
+    "RLE",
+    "compression",
+    "javascript",
+    "compression",
+    "browser",
+    "compression"
+  ],
+  "author": "Arun Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yadav-arun/rle-compression/issues"
+  },
+  "homepage": "https://github.com/yadav-arun/rle-compression#readme"
+}
